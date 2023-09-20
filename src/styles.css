@@ -6,16 +6,9 @@ body,
     left: 0;
     width: 100%;
     height: 100%;
-    background: white;
+    background: black;
+    font-family: 'Outfit', sans-serif;
 }
 canvas{
     touch-action: none;
-}
-
-.canvas-text-div{
-    position: absolute;
-    color: black;
-    top: 10px;
-    left: 10px;
-    z-index: 1;
 }
